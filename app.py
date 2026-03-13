@@ -1,7 +1,6 @@
 import streamlit as st
 import pickle
 import pandas as pd
-import schedule
 import time
 from plyer import notification
 from threading import Thread
