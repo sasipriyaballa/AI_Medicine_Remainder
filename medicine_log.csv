@@ -1,0 +1,28 @@
+medicine_name,time,dosage,age,condition,status
+Paracetamol,08:00,1 tablet,25,Fever,Taken
+Paracetamol,08:00,1 tablet,32,Fever,Taken
+Paracetamol,08:00,1 tablet,40,Fever,Missed
+Insulin,07:00,2 units,55,Diabetes,Taken
+Insulin,07:00,2 units,60,Diabetes,Taken
+Insulin,07:00,2 units,48,Diabetes,Missed
+Aspirin,09:00,1 tablet,45,Heart,Taken
+Aspirin,09:00,1 tablet,50,Heart,Missed
+Aspirin,09:00,1 tablet,52,Heart,Taken
+Vitamin C,13:00,1 tablet,30,Immunity,Taken
+Vitamin C,13:00,1 tablet,28,Immunity,Taken
+Vitamin C,13:00,1 tablet,35,Immunity,Missed
+Metformin,08:00,1 tablet,60,Diabetes,Taken
+Metformin,08:00,1 tablet,62,Diabetes,Taken
+Metformin,08:00,1 tablet,58,Diabetes,Missed
+Crocin,20:00,1 tablet,24,Fever,Taken
+Crocin,20:00,1 tablet,27,Fever,Taken
+Crocin,20:00,1 tablet,29,Fever,Missed
+Amoxicillin,10:00,1 capsule,33,Infection,Taken
+Amoxicillin,10:00,1 capsule,36,Infection,Missed
+Amoxicillin,10:00,1 capsule,31,Infection,Taken
+Ibuprofen,21:00,1 tablet,38,Pain,Taken
+Ibuprofen,21:00,1 tablet,41,Pain,Missed
+Ibuprofen,21:00,1 tablet,35,Pain,Taken
+Cetirizine,22:00,1 tablet,29,Allergy,Taken
+Cetirizine,22:00,1 tablet,33,Allergy,Taken
+Cetirizine,22:00,1 tablet,31,Allergy,Missed
